@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Shots
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shots\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Shots()
+comment2.params=stepsize
+comment2.target=Shots(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=boolean\ outofBounds()
+numComments=5
